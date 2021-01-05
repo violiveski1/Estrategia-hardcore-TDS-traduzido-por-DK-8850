@@ -1,0 +1,147 @@
+
+Log de alterações
+ V50%
+29/11
+Estratégia agora é compatível com a nova atualização.
+Early Game diferente para todos os jogadores.
+O documento recebeu uma atualização visual.
+O link do mapa de posicionamento foi movido para os registros de alterações.
+Mudança nos padrões de cultivo para se adaptar ao aumento de preços de 50%
+Jogador 3 lugares 5 Bases militares de nível 2
+O jogador 2 recebe um único Ranger.
+Apenas P1 obterá torres na onda 44.
+P2 irá levar todos os Rangers ao nível 4 primeiro / P3 irá maximizar todos os Rangers antes de pegar as torres.
+Se você tiver um minigunner normal, não pule as ondas 45 e 46.
+Ao contrário da última atualização, não pule as ondas 24 e 26.
+
+
+
+Mapas de posicionamento
+
+https://docs.google.com/document/d/1a00CCDDtLQm_eDNs2IE4OKH1ZtdPu5pBCGShkOkHnpw/edit#heading=h.p6fsk5a02cot
+
+
+
+Notas
+Por favor, leia antes de tentar.
+Mapas compatíveis: campo de batalha destruído
+Essa estratégia é consistente.
+Continue acorrentando os comandantes assim que os derrubar. [Tutorial em breve]
+Uma pequena dica ao mudar o CoA: tente usar a habilidade de seus comandantes em uma ordem memorável específica para tornar sua vida mais fácil.
+Empilhe na colina para caber todos os 30 Rangers [Tutorial]
+Você pode empilhar Minigunners / Torres na terra elevada.
+Não são necessários Golden Skins. O Minigunner regular também funciona.
+Você pode pular todas as ondas, exceto as ondas 24, 26, 45 * e 46 *.
+Cada rodada pode ser concluída em 36 minutos se as ondas forem puladas.
+Se você tiver menos experiência com o jogo, é recomendável não pular todas as ondas.
+Torres no hardcore ainda são o preço padrão a ser baixado. Por exemplo: Farm ainda custa $ 250 para colocar, embora diga $ 325
+Venda Fazendas se você atingiu a quantidade máxima de tropas colocadas.
+
+
+
+
+
+
+Jogador 1
+Carregamento: Ace Pilot, Ranger, Farm, Minigunner, Torreta
+
+
+
+Ondas
+Estratégia
+0-4
+Coloque um Ace Pilot quando for 0:01 de intervalo antes do jogo começar (não gire) e atualize para o nível 1.
+5-11
+Coloque 4 fazendas de nível 0.
+Atualize o Ace Pilot para o nível 2
+Coloque 4 Fazendas e atualize 1 para o nível 1.
+12-20
+Coloque outro Ace Pilot próximo ao primeiro. Faça upgrade para o nível 2.
+Atualize as Fazendas para o nível 1/2/3 até a onda 20.
+21-25
+Coloque 6 Minigunners nível 3. Você só precisa de 5 se tiver a versão de pele dourada.
+Eventualmente, remova os dois Ace Pilots.
+26-44
+Atualize todas as Fazendas para o nível 3, se ainda não o fizeram.
+Coloque 10 Rangers Nível 3.
+Atualize 7 Rangers para o nível 4.
+45-50
+Máximo de todos os Minigunners.
+Coloque e no máximo 5 torres.
+Max todos os Rangers.
+
+
+
+Jogador 2
+Carregamento: Torreta, Ranger, Fazenda, Minigunner, DJ
+
+
+
+
+Ondas
+Estratégia
+1-5
+Coloque 8 Fazendas de nível 0.
+6-20
+Atualize as fazendas até a onda 15. (3 Nível 3, 5 Nível 2)
+Coloque um Ranger nível 3 e defina-o como o mais forte para Mega Slow.
+Coloque um DJ de nível 3.
+21-28
+Coloque 6 Minigunners nível 3. Você só precisa de 5 se tiver a versão de pele dourada.
+Atualize as Fazendas restantes para o nível 3.
+29-43
+Atualize DJ para o nível 5.
+Coloque 9 Rangers de nível 3.
+Aprimore 6 Rangers para o nível 4.
+44-50
+Máximo de todos os Minigunners.
+Atualize os Rangers restantes para o nível 4.
+Coloque e no máximo 5 torres.
+Max todos os Rangers.
+
+
+
+Jogador 3
+Carregamento: Base Mili, Ranger, Fazenda, Torreta, Comandante
+
+
+
+
+Ondas
+Estratégia
+1-7
+Coloque 8 Farms lvl 0 e continue atualizando até o final da onda 7.
+8-14
+Coloque 3 bases Mili lvl 0 e atualize-as para o nível 2.
+Farm até o final da onda 14.
+15-16
+Coloque mais 2 bases Mili lvl 0 e atualize-as para o nível 2.
+17-21
+Atualize todas as fazendas para o nível 3.
+22-24
+Coloque 1 comandante lvl 2 e coa para a onda 23 (chefe da sombra) e coloque outro comandante 2 lvl 2 (acorrente o coa).
+25-36
+Coloque 10 Ranger lvl 3.
+39-42
+Máximo de todos os seus comandantes.
+43-50
+Maximize todos os Rangers então coloque 5 Turrets e no máximo todos eles. Atualize a Base Mili por último para o nível 4 (tanques, pois você não terá o suficiente para maximizar as bases Mili).
+
+
+
+Creditos versão inglesa
+
+https://docs.google.com/document/d/1qsnTAK0IrbXyT_PxeHLa4ptjTRDYJ8ZyF_-0_25_PpI/edit?userstoinvite=adelaidedaniellatwo%40gmail.com&ts=5f9f6a2f#heading=h.trcjq44ti69u
+
+'
+
+DRSReaper275 (DRSReaper275 # 0156) Criador de estratégia
+Kilerskie1239 (Kilerskie1239 # 5357) Criador de estratégia
+ecadenise (Erika ♡ # 5028) Criador de estratégia
+ulillusion (Scepture # 0001) Criador de estratégia
+Criador de estratégia pugmustache (kraft36 # 3636)
+
+sdube0067 (sdube0067 # 4283) Testador ..e todos os outros que ajudaram com as versões anteriores.	
+
+LINK DO DISCORD DELES
+https://discord.gg/ZX3MwGDTr8
